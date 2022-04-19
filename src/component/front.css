@@ -1,0 +1,13 @@
+
+.col-md-3 a{
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    padding: 20px 20px;
+    word-wrap: none;
+    text-decoration: none;
+    /* display: flex; */
+    text-align: center;
+
+}
+.card{
+    text-align: center;
+}

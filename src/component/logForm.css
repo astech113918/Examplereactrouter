@@ -1,0 +1,14 @@
+.logForm{
+    width: 40%;
+    margin: 50px;
+    
+}
+.formLog{
+    /* background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); */
+    background-color: rgba(42, 236, 236, 0.2); 
+/* color: rgba(149, 255, 255, 0.2); */
+padding: 20px;
+margin-top: 20px;
+border-radius: 20px;
+text-transform: capitalize;
+}
